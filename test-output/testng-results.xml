@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104" started-at="2022-01-04T11:34:52Z" finished-at="2022-01-04T11:34:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104" started-at="2022-01-04T11:34:52Z" finished-at="2022-01-04T11:34:52Z">
+      <class name="com.Testng.Testng_cls">
+        <test-method status="PASS" signature="Ashok()[pri:0, instance:com.Testng.Testng_cls@29176cc1]" name="Ashok" is-config="true" duration-ms="13" started-at="2022-01-04T17:04:52Z" finished-at="2022-01-04T17:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ashok -->
+        <test-method status="PASS" signature="balaji()[pri:0, instance:com.Testng.Testng_cls@29176cc1]" name="balaji" duration-ms="11" started-at="2022-01-04T17:04:52Z" finished-at="2022-01-04T17:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- balaji -->
+        <test-method status="PASS" signature="nanba()[pri:0, instance:com.Testng.Testng_cls@29176cc1]" name="nanba" is-config="true" duration-ms="2" started-at="2022-01-04T17:04:52Z" finished-at="2022-01-04T17:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nanba -->
+        <test-method status="PASS" signature="Ashok()[pri:0, instance:com.Testng.Testng_cls@29176cc1]" name="Ashok" is-config="true" duration-ms="0" started-at="2022-01-04T17:04:52Z" finished-at="2022-01-04T17:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ashok -->
+        <test-method status="PASS" signature="mathi()[pri:0, instance:com.Testng.Testng_cls@29176cc1]" name="mathi" duration-ms="6" started-at="2022-01-04T17:04:52Z" finished-at="2022-01-04T17:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mathi -->
+        <test-method status="PASS" signature="nanba()[pri:0, instance:com.Testng.Testng_cls@29176cc1]" name="nanba" is-config="true" duration-ms="1" started-at="2022-01-04T17:04:52Z" finished-at="2022-01-04T17:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nanba -->
+        <test-method status="PASS" signature="Ashok()[pri:0, instance:com.Testng.Testng_cls@29176cc1]" name="Ashok" is-config="true" duration-ms="1" started-at="2022-01-04T17:04:52Z" finished-at="2022-01-04T17:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ashok -->
+        <test-method status="PASS" signature="venkadesan()[pri:0, instance:com.Testng.Testng_cls@29176cc1]" name="venkadesan" duration-ms="4" started-at="2022-01-04T17:04:52Z" finished-at="2022-01-04T17:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- venkadesan -->
+        <test-method status="PASS" signature="nanba()[pri:0, instance:com.Testng.Testng_cls@29176cc1]" name="nanba" is-config="true" duration-ms="1" started-at="2022-01-04T17:04:52Z" finished-at="2022-01-04T17:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nanba -->
+      </class> <!-- com.Testng.Testng_cls -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
